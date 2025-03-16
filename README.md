@@ -18,7 +18,7 @@ Amigo Secreto es una aplicación web sencilla que permite a los usuarios agregar
 ## Instalación y uso
 1. **Descargar el repositorio**:
    ```sh
-   git clone https://github.com/cristhianl10/amigo-secreto.git
+   git clone https://github.com/cristhianl10/amigo-secreto-challenge
    ```
 2. **Abrir el proyecto**:
    - Puedes abrir el archivo `index.html` en cualquier navegador web.
