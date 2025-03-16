@@ -32,7 +32,7 @@ Amigo Secreto es una aplicación web sencilla que permite a los usuarios agregar
    - Se mostrará un mensaje con el amigo secreto seleccionado.
 
 ## Capturas de pantalla
-_Agrega aquí capturas de pantalla del proyecto en funcionamiento._
+![image](https://github.com/user-attachments/assets/a7197939-50eb-43e4-8a4f-04b8bc53f239)
 
 ## Posibles mejoras
 - Implementar una funcionalidad para que el sorteo asigne amigos secretos de forma equilibrada.
