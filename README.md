@@ -32,7 +32,12 @@ Amigo Secreto es una aplicación web sencilla que permite a los usuarios agregar
    - Se mostrará un mensaje con el amigo secreto seleccionado.
 
 ## Capturas de pantalla
+-Al ingresar dos personas, se sortearán de la siguiente manera la función random de la librería de javaScript:
 ![image](https://github.com/user-attachments/assets/a7197939-50eb-43e4-8a4f-04b8bc53f239)
+
+-Al tratar de ingresar valores vacíos, se le pedirá que ingrese un nombre válido.
+![Uploading image.png…]()
+
 
 ## Posibles mejoras
 - Implementar una funcionalidad para que el sorteo asigne amigos secretos de forma equilibrada.
